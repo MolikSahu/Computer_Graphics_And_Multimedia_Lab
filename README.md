@@ -1,2 +1,3 @@
 # Computer_Graphics_And_Multimedia_Lab
+COMPUTER GRAPHICS AND MULTIMEDIA LAB
 CS-507
